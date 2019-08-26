@@ -1,0 +1,13 @@
+E:\Dev\VS2019\Asp.netCoreJWTTemplate\bin\Debug\netcoreapp2.2\Asp.netCoreJWTTemplate.deps.json
+E:\Dev\VS2019\Asp.netCoreJWTTemplate\bin\Debug\netcoreapp2.2\Asp.netCoreJWTTemplate.runtimeconfig.json
+E:\Dev\VS2019\Asp.netCoreJWTTemplate\bin\Debug\netcoreapp2.2\Asp.netCoreJWTTemplate.runtimeconfig.dev.json
+E:\Dev\VS2019\Asp.netCoreJWTTemplate\bin\Debug\netcoreapp2.2\Asp.netCoreJWTTemplate.dll
+E:\Dev\VS2019\Asp.netCoreJWTTemplate\bin\Debug\netcoreapp2.2\Asp.netCoreJWTTemplate.pdb
+E:\Dev\VS2019\Asp.netCoreJWTTemplate\obj\Debug\netcoreapp2.2\Asp.netCoreJWTTemplate.csproj.CoreCompileInputs.cache
+E:\Dev\VS2019\Asp.netCoreJWTTemplate\obj\Debug\netcoreapp2.2\Asp.netCoreJWTTemplate.RazorAssemblyInfo.cache
+E:\Dev\VS2019\Asp.netCoreJWTTemplate\obj\Debug\netcoreapp2.2\Asp.netCoreJWTTemplate.RazorAssemblyInfo.cs
+E:\Dev\VS2019\Asp.netCoreJWTTemplate\obj\Debug\netcoreapp2.2\Asp.netCoreJWTTemplate.AssemblyInfoInputs.cache
+E:\Dev\VS2019\Asp.netCoreJWTTemplate\obj\Debug\netcoreapp2.2\Asp.netCoreJWTTemplate.AssemblyInfo.cs
+E:\Dev\VS2019\Asp.netCoreJWTTemplate\obj\Debug\netcoreapp2.2\Asp.netCoreJWTTemplate.RazorTargetAssemblyInfo.cache
+E:\Dev\VS2019\Asp.netCoreJWTTemplate\obj\Debug\netcoreapp2.2\Asp.netCoreJWTTemplate.dll
+E:\Dev\VS2019\Asp.netCoreJWTTemplate\obj\Debug\netcoreapp2.2\Asp.netCoreJWTTemplate.pdb

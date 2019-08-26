@@ -60,6 +60,8 @@ namespace Asp.netCoreJWTTemplate
 
             // configure DI for application services
             services.AddScoped<IUserService, UserService>();
+
+            int d = 1;
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
