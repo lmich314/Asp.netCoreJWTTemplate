@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Dev\\VS2019\\Asp.netCoreJWTTemplate\\Asp.netCoreJWTTemplate.csproj": {}
+  },
+  "projects": {
+    "E:\\Dev\\VS2019\\Asp.netCoreJWTTemplate\\Asp.netCoreJWTTemplate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Dev\\VS2019\\Asp.netCoreJWTTemplate\\Asp.netCoreJWTTemplate.csproj",
+        "projectName": "Asp.netCoreJWTTemplate",
+        "projectPath": "E:\\Dev\\VS2019\\Asp.netCoreJWTTemplate\\Asp.netCoreJWTTemplate.csproj",
+        "packagesPath": "C:\\Users\\lmich\\.nuget\\packages\\",
+        "outputPath": "E:\\Dev\\VS2019\\Asp.netCoreJWTTemplate\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lmich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
