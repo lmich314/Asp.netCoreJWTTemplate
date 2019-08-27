@@ -54,12 +54,11 @@ namespace Asp.netCoreJWTTemplate.Services
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
             };
             var token = tokenHandler.CreateToken(tokenDescriptor);
-            user.Token = tokenHandler.WriteToken(token);
 
-            // remove password before returning
-            user.Password = null;
-
-            return user;
+            User resultUser = new User { Id = user.Id, FirstName = user.FirstName, LastName = user.LastName,
+                                         Username = user.Username, Password = null,Token = tokenHandler.WriteToken(token)
+                                       };            
+            return resultUser;
         }
 
         public IEnumerable<User> GetAll()
